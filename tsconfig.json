@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "types": ["node", "webdriverio/async", "@wdio/cucumber-framework", "expect-webdriverio"],
+    "paths": {
+      "csv-stringify": ["../node_modules/csv-stringify/lib/index.js"]
+    }
+  }
+}
